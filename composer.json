@@ -2,7 +2,7 @@
     "name": "forjix/support",
     "description": "Forjix Framework support utilities",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "require": {
         "php": "^8.2"
     },
