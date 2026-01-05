@@ -95,4 +95,4 @@ echo $config->name; // App
 
 ## License
 
-MIT
+GPL-3.0
